@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/kinnshuuu/TicTacToe-Client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/kinnshuuu/TicTacToe-Server.git
